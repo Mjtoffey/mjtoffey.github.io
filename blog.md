@@ -12,4 +12,4 @@ This week has been quite the adjustment for me.  While I love working with compu
  
  Follow me as I take the deep dive into the coding world
  ![Guy jumping into the ocean][guy]
- [guy]: followme.jpeg
+ [guy]: img/followme.jpeg
