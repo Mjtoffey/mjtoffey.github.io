@@ -11,4 +11,5 @@ This week has been quite the adjustment for me.  While I love working with compu
  I hope this blog will allow me to become more familiar these spaces and provide a space of reflection for me to discuss the knowledge I currently have, as well as set goals and track progress.
  
  Follow me as I take the deep dive into the coding world
- ![Guy jumping into the ocean](img/followme.jpeg)
+ ![Guy jumping into the ocean][guy]
+ [guy]: followme.jpeg
