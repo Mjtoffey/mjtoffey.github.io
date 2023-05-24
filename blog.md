@@ -9,3 +9,6 @@ This week has been quite the adjustment for me.  While I love working with compu
  Despite my challenges I am eager to learn more about how these spaces interact and how I can leverage their design to assist me in the future.  The thing I am most excited for is learning how to dress up a web page in my own individual style and truly make something that I can call *my own*.
  
  I hope this blog will allow me to become more familiar these spaces and provide a space of reflection for me to discuss the knowledge I currently have, as well as set goals and track progress.
+ 
+ Follow me as I take the deep dive into the coding world
+ ![Guy jumping into the ocean](img/followme.jpeg)
