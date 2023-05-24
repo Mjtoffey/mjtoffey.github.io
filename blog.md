@@ -1,5 +1,5 @@
 # My first week learning to code! #
-![Guy drinking coffee at him computer] (img/programming guy 1.jpeg)
+![Guy drinking coffee at him computer](img/programming guy 1.jpeg)
 ## Learning the basics ##
 
 This week has been quite the adjustment for me.  While I love working with computers, I come from a career field that has very little to do with the hidden workings of the web and have had to take extra care that I am understanding all of the concepts taught to us at the **Awesome Inc.** bootcamp.    I have been lucky enough to connect with people at this bootcamp that have been a **huge help** in starting my jounrey as a Developer.
